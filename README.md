@@ -1,4 +1,4 @@
-This is a puthon script to provide you with the best chance
+This is a Python script to provide you with the best chance
 for winning wordle. It uses character analysis to show you
 the choice which would narrow down the most options.
 
